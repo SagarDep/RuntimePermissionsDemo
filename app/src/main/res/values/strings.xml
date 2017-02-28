@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RuntimePermissionsDemo</string>
+    <string name="request_permission">Request Permission</string>
+    <string name="permission_granted">Permission Granted!</string>
+    <string name="permission_denied">Permission Denied!</string>
+    <string name="permission_already_granted">Permission already granted!</string>
+</resources>
